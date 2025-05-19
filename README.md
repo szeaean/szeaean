@@ -92,7 +92,7 @@ KT aivle 7기 교육생 | 데이터 분석가
 - 사회조사분석사 2급 ('24.03.~)
 - SQL개발자(SQLD) (`23.04.14)
 - 정보처리기사 ('22.06.17)
-- TOEIC 935 ('22.05.29)
+- TOEIC 950 ('23.05.29)
 
 
 
@@ -110,6 +110,6 @@ KT aivle 7기 교육생 | 데이터 분석가
 
 ### 📺 See Also
 
-**Notion.** [https://dot-shift-674.notion.site/351e25d3871b4ec4a4d47e58cb54867f](https://dot-shift-674.notion.site/351e25d3871b4ec4a4d47e58cb54867f)
+**Notion.** [[https://dot-shift-674.notion.site/351e25d3871b4ec4a4d47e58cb54867f](https://www.notion.so/Study-note-1d30c4706e3b800187edefec7f333d7e)]([https://dot-shift-674.notion.site/351e25d3871b4ec4a4d47e58cb54867f](https://www.notion.so/Study-note-1d30c4706e3b800187edefec7f333d7e))
 
 **Github.**  [https://github.com/AtomicLiquors](https://github.com/AtomicLiquors)
