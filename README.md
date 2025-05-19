@@ -110,6 +110,6 @@ KT aivle 7기 교육생 | 데이터 분석가
 
 ### 📺 See Also
 
-**Notion.** [[https://dot-shift-674.notion.site/351e25d3871b4ec4a4d47e58cb54867f](https://www.notion.so/Study-note-1d30c4706e3b800187edefec7f333d7e)]([https://dot-shift-674.notion.site/351e25d3871b4ec4a4d47e58cb54867f](https://www.notion.so/Study-note-1d30c4706e3b800187edefec7f333d7e))
+**Notion.** ([https://dot-shift-674.notion.site/351e25d3871b4ec4a4d47e58cb54867f](https://www.notion.so/Study-note-1d30c4706e3b800187edefec7f333d7e))
 
-**Github.**  [https://github.com/AtomicLiquors](https://github.com/AtomicLiquors)
+**Github.**  [[https://github.com/AtomicLiquors](https://github.com/AtomicLiquors](https://github.com/szeaean))
