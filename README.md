@@ -18,16 +18,18 @@ KT aivle 7기 교육생 | 데이터 분석가
 - Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn을 활용한 데이터 전처리 및 분석  
 - 머신러닝 모델 개발 및 성능 개선 (RandomForest, XGBoost 등)  
 - API 활용 및 데이터 수집 자동화
-- 
+- PyTorch, TensorFlow, Keras를 활용한 딥러닝 모델 설계 및 최적화 경험
 &nbsp;  
 
-<img src="./mysql_icon.png" width="30px" height="30px"/> **MySQL**
+<img src="./mysql_icon.png" width="30px" height="30px"/> **MySQL** &nbsp; 
 - 요구사항에 필요한 Join과 SubQuery, 가상 테이블(View) 활용 가능 
 - JPA 또는 MyBatis를 이용한 Spring Project와의 DB연동 
 - SQLD 자격증 보유
-
-<img src="./mysql_icon.png" width="30px" height="30px"/> **M**
-
+&nbsp; 
+<img src="./mysql_icon.png" width="30px" height="30px"/> **P** &nbsp; 
+- 
+- 
+- 
 &nbsp;
 
 
@@ -60,7 +62,7 @@ KT aivle 7기 교육생 | 데이터 분석가
 
 &nbsp;  
 
-### ~~ 프로젝트
+### 개인 프로젝트
 '23 - '23 (~주) , 개발인원 2명  
 
 **[프로젝트 개요]**  
@@ -103,7 +105,7 @@ KT aivle 7기 교육생 | 데이터 분석가
 
 ### 💳 thesis
 ##### 작성 논문 목록
-- ~~~ (
+- 
 - 
 
 &nbsp;  
