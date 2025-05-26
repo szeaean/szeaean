@@ -8,8 +8,8 @@ KT aivle 7기 교육생 | 데이터 분석가
 
 
 ## 📧 Contact
-**Naver.** tpwls6413@naver.com        
-**Gmail.** tpwls9416@gmail.com   
+**Naver.**  tpwls6413@naver.com        
+**Gmail.**  tpwls9416@gmail.com   
 
 &nbsp;
 
