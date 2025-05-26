@@ -26,7 +26,8 @@ KT aivle 7기 교육생 | 데이터 분석가
 - JPA 또는 MyBatis를 이용한 Spring Project와의 DB연동 
 - SQLD 자격증 보유
 
-<img src="./mysql_icon.png" width="30px" height="30px"/> **MySQL**
+<img src="./mysql_icon.png" width="30px" height="30px"/> **M**
+
 &nbsp;
 
 
@@ -86,6 +87,7 @@ KT aivle 7기 교육생 | 데이터 분석가
 - 군산대학교 자연대학 수학과 학사졸업  / `19.03.03 – '25.02.20
 - 군산대학교 공과대학 빅데이터분석과 복수전공 졸업 / '22.03.03 ~ '25.
 - KT aivle school 7기 DX컨설턴트 과정 수료  / '25.03.25 - '25.09.
+- 
 
 &nbsp;  
 
@@ -103,9 +105,6 @@ KT aivle 7기 교육생 | 데이터 분석가
 ##### 작성 논문 목록
 - ~~~ (
 - 
-
-
-&nbsp;  
 
 &nbsp;  
 ---
