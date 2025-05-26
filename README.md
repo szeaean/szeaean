@@ -14,16 +14,19 @@ KT aivle 7기 교육생 | 데이터 분석가
 &nbsp;
 
 ## 🛠️ Skills  
-<img src="./python_icon.png" width="30px" height="30px"/> **Python** &nbsp;  
+<img src="./python_icon.png" width="30px" height="30px"/> **Python** &nbsp; 
 - Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn을 활용한 데이터 전처리 및 분석  
 - 머신러닝 모델 개발 및 성능 개선 (RandomForest, XGBoost 등)  
-- API 활용 및 데이터 수집 자동화  
+- API 활용 및 데이터 수집 자동화
+- 
 &nbsp;  
 
 <img src="./mysql_icon.png" width="30px" height="30px"/> **MySQL**
 - 요구사항에 필요한 Join과 SubQuery, 가상 테이블(View) 활용 가능 
 - JPA 또는 MyBatis를 이용한 Spring Project와의 DB연동 
 - SQLD 자격증 보유
+
+<img src="./mysql_icon.png" width="30px" height="30px"/> **MySQL**
 &nbsp;
 
 
@@ -40,15 +43,15 @@ KT aivle 7기 교육생 | 데이터 분석가
 
 ## 💻 Project
 
-### 123 프로젝트
-'23.08.28 - '23.11.06 (6주) , 개발인원 5명
+### 금융데이터를 이용한 상품개발 프로젝트
+'24.05.21 - '24.6.18 (5주) , 인원 3명
 
 **[프로젝트 개요]**
 - 
 - 
 - 
  
-**[역할] : ㅇㅇ**
+**[역할] : 조장**
 - 
 - 
 
