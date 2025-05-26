@@ -53,7 +53,7 @@ KT aivle 7기 교육생 | 데이터 분석가
 
 **[프로젝트 개요]**
 - IMDb 데이터셋 기반 RNN(LSTM) 모델 구현
-- 토큰화(BERT tokenizer) 후 텐서로 변환하여 모델 학습
+- 토큰화(BERT tokenizer) 후 tensor로 변환하여 모델 학습
 - GPU 가속을 고려한 학습 loop 커스터마이징
 - F1 Score, Confusion Matrix 기반 성능 평가
 
