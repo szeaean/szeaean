@@ -52,10 +52,12 @@ KT aivle 7기 교육생 | 데이터 분석가
 '24.9.2 - '24.11.18 (11주)
 
 **[프로젝트 개요]**
-- IMDb 데이터셋 기반 RNN(LSTM) 모델 구현
-- 토큰화(BERT tokenizer) 후 tensor로 변환하여 모델 학습
-- GPU 가속을 고려한 학습 loop 커스터마이징
-- F1 Score, Confusion Matrix 기반 성능 평가
+- 얼굴 표정 이미지 데이터셋(FER2013 등)을 기반으로 CNN 모델 구현
+- OpenCV 및 MTCNN 등으로 얼굴 영역을 정제하고, 이미지 정규화 및 텐서 변환
+- CNN 모델 학습 시 GPU 가속을 고려한 학습 루프 커스터마이징
+- F1 Score, Confusion Matrix 기반 감정 분류 성능 평가
+
+
 
 &nbsp;  
 
