@@ -27,13 +27,14 @@ KT aivle 7기 교육생 | 데이터 분석가
 - SQLD 자격증 보유
 &nbsp; 
 
+"""
 <img src="./mysql_icon.png" width="30px" height="30px"/> **P** 
 
 - 
 - 
 - 
 &nbsp;
-
+"""
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
