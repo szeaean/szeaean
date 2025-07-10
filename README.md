@@ -123,7 +123,7 @@ KT aivle 7기 교육생 | 데이터 분석가
 &nbsp;  
 
 ### 💳 Certification
-- 빅데이터분석기사 (' 딸 수 있을까..')
+- 빅데이터분석기사 
 - AICE ASSOCIATE('25.
 - 정보처리기사 ('25.)
 - ADSP ('24.07.~
